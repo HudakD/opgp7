@@ -1,7 +1,7 @@
 print("hello world")
 
 from tvary import obdlznik
-print(f"Obvod obdĺžnika o veľkosti 10 x 15 je {obdlznik.obvod(10, 15)}")
+print(f"Obvod obdĺžnika o veľkosti 50 x 67 je {obdlznik.obvod(50, 67)}")
 
 import tvary.kruh
-print(f"Obvod kruhu o veľkosti 10 je {tvary.kruh.obvod(10)}")
+print(f"Obvod kruhu o veľkosti 15 je {tvary.kruh.obvod(15)}")
